@@ -12,11 +12,11 @@
 }
 
 .shop {
-    flex-basis: 200px;
+    flex-basis: 16%;
     border: 1px dotted crimson;
-    padding-right: 50px;
+    padding-right: 25px;
     margin-right: 10px;
-    text-align: left;
+    text-align: center;
 }
 
 body {
